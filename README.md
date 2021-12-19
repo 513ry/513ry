@@ -1,20 +1,25 @@
 <!-- About me -->
-<p>
-  You may know me by nickname lordrubish or siery from some other sources. I seek
-  to gain and share knowledge related to computer science, math, physics,
-  philosophy, art and other fun mysteries of life.
-</p>
-<p align='center'>
-  <i>
-  ❝Ask, and it shall be given you; seek, and ye shall find; knock, and it shall
-  be opened unto you.❞ [Matt 7:7]
-  </i>
-</p>
-</br>
+```hs
+$ hostnamectl
+  "You may know me by nickname lordrubish or siery from some other sources. I seek
+   to gain and share knowledge related to computer science, math, physics,
+   philosophy, art and other fun mysteries of life."
+
+
+  "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall
+   be opened unto you." MATT[7,7]
+  
+  Hostname: Daniel Sierpiński
+  Uptime: 25 years
+  Architecture: Software Developer, Game Developer
+  OS: Arch Linux
+  
+$ links2 -g
+  loading hypertext..
+```
 <table align='center'>
 <tbody>
 <thead><tr><td colspan=3>
-Where to find me (external links)
 </thead>
 <tr align='center'>
   <td> <a href='https://str84ward.tk'>Blog</a>
