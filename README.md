@@ -6,8 +6,8 @@ $ hostnamectl
    philosophy, art and other fun mysteries of life."
 
 
-  "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall
-   be opened unto you." MATT[7,7]
+  "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be
+   opened unto you." MATT[7,7]
   
   Hostname: Daniel Sierpiński
   Uptime: 25 years
