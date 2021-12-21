@@ -1,4 +1,4 @@
-<!-- About me -->
+<!-- About Me -->
 ```hs
 $ hostnamectl
   "You may know me by nickname lordrubish or siery from some other sources. I seek
@@ -17,9 +17,10 @@ $ hostnamectl
 $ links2 -g
   loading hypertext..
 ```
+<!-- Link Table -->
 <table align='center'>
 <tbody>
-<thead><tr><td colspan=3>
+<thead><tr>
 </thead>
 <tr align='center'>
   <td> <a href='https://str84ward.tk'>Blog</a>
